@@ -14,3 +14,16 @@
   body {
       background-color: rgb(238, 205, 176);
   }
+
+  #foto {
+      float: left;
+      height: 300px;
+  }
+
+  #image-container {
+      height: 300px;
+  }
+
+  div{
+      border: 2px solid green;
+  }
