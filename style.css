@@ -1,13 +1,7 @@
-.button {
-    color: white;
-    background-color: #f74545;
-    padding: 10px 25px;
-    font-size: 16px;
-    line-height: 20px;
-    font-weight: 700;
-    border-radius: 4px;
-    text-decoration: none;
+  .nome {
+      text-align: center;
   }
+  
   .picture {
     border-radius: 100%;
   }
@@ -26,4 +20,15 @@
 
   div{
       border: 2px solid green;
+  }
+
+  .button {
+    color: white;
+    background-color: #f74545;
+    padding: 10px 25px;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 700;
+    border-radius: 4px;
+    text-decoration: none;
   }
