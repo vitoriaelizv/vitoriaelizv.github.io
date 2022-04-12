@@ -31,8 +31,8 @@
       right: 50%;
   }
 
-  div{
-      border: 2px solid green;
+  ul li:nth-child(odd) {
+      background-color: #f74545;
   }
 
   .button {
